@@ -43,6 +43,7 @@
 </style>
 
 
+
 </head>
 <body>
 	<center>
@@ -56,6 +57,8 @@
 		ArrayList<String> adress = new ArrayList<String>();
 		ArrayList<String> avg_score = new ArrayList<String>();
 
+		//foooTest
+		
 		Connection myConn = null;
 		Statement myStmt = null;
 		ResultSet myRs = null;
