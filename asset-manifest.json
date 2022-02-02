@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/ebike/static/css/main.911929b7.css",
-    "main.js": "/ebike/static/js/main.abb9791d.js",
+    "main.css": "/ebike/static/css/main.74e0a9d9.css",
+    "main.js": "/ebike/static/js/main.56ab7e65.js",
     "static/js/787.d736507b.chunk.js": "/ebike/static/js/787.d736507b.chunk.js",
+    "static/media/News-Platzhalter.png": "/ebike/static/media/News-Platzhalter.cddea5e253a6b9139f30.png",
+    "static/media/Ebike-Platzhalter.png": "/ebike/static/media/Ebike-Platzhalter.976a682d4411e82df157.png",
+    "static/media/More-Platzhalter.png": "/ebike/static/media/More-Platzhalter.86154b7f23e241821e28.png",
     "index.html": "/ebike/index.html",
-    "main.911929b7.css.map": "/ebike/static/css/main.911929b7.css.map",
-    "main.abb9791d.js.map": "/ebike/static/js/main.abb9791d.js.map",
+    "main.74e0a9d9.css.map": "/ebike/static/css/main.74e0a9d9.css.map",
+    "main.56ab7e65.js.map": "/ebike/static/js/main.56ab7e65.js.map",
     "787.d736507b.chunk.js.map": "/ebike/static/js/787.d736507b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.911929b7.css",
-    "static/js/main.abb9791d.js"
+    "static/css/main.74e0a9d9.css",
+    "static/js/main.56ab7e65.js"
   ]
 }
