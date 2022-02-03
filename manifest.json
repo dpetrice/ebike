@@ -4,8 +4,7 @@
   "theme_color": "#131314",
   "background_color": "#131314",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "/",
+  "start_url": ".",
   "icons": [
    
     {
@@ -19,5 +18,4 @@
       "sizes": "512x512"
     }
   ]
-
 }
